@@ -46,14 +46,14 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "Pathum";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("./Assets/IMG-20240217-WA0064.jpg");
+global.Thumb = fs.readFileSync("./Assets/IMG-20240217-WA0064.jpg");
+global.Thumb1 = fs.readFileSync("./Assets/IMG-20240217-WA0064.jpg");
+global.ErrorPic = fs.readFileSync("./Assets/IMG-20240217-WA0064.jpg");
 
 
 //
